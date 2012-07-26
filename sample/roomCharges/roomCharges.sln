@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "roomCharges", "G:\School\Classes\itcs1230\week6\assignments\roomCharges\", "{1DA5BBE0-BB7F-4527-9944-99E419845D59}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/roomCharges"
+		Debug.AspNetCompiler.PhysicalPath = "G:\School\Classes\itcs1230\week6\assignments\roomCharges\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\roomCharges\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/roomCharges"
+		Release.AspNetCompiler.PhysicalPath = "G:\School\Classes\itcs1230\week6\assignments\roomCharges\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\roomCharges\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "38042"
+		DefaultWebSiteLanguage = "Visual Basic"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DA5BBE0-BB7F-4527-9944-99E419845D59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DA5BBE0-BB7F-4527-9944-99E419845D59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
