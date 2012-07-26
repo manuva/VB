@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "JoesAuto", "JoesAuto\JoesAuto.vbproj", "{745E17E5-D93B-4385-968D-1BF6ECE593AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{745E17E5-D93B-4385-968D-1BF6ECE593AC}.Debug|x86.ActiveCfg = Debug|x86
+		{745E17E5-D93B-4385-968D-1BF6ECE593AC}.Debug|x86.Build.0 = Debug|x86
+		{745E17E5-D93B-4385-968D-1BF6ECE593AC}.Release|x86.ActiveCfg = Release|x86
+		{745E17E5-D93B-4385-968D-1BF6ECE593AC}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
